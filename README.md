@@ -36,3 +36,10 @@ This project demonstrates those steps and presents insights using both **Python*
 ---
 
 ## 📁 Repository Structure
+EDA-Project/
+├─ data/ # raw and cleaned datasets
+├─ notebooks/ # Jupyter notebooks for analysis
+├─ tableau/ # Tableau dashboard files
+├─ scripts/ # reusable Python scripts
+├─ reports/ # case study reports and summaries
+└─ README.md # project documentation
